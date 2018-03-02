@@ -5,6 +5,15 @@
 <body>
 <?php
 	require_once('class.phpmailer.php');
+
+	$name = $_POST["name"];
+	$tel = $_POST["tel"];
+	$email = $_POST["email"];
+	$school = $_POST["school"];
+	$course = $_POST["course"];
+
+	$mto = $_POST["mto"];
+
 	$mail = new PHPMailer();
 	$mail->IsHTML(true);
 	$mail->IsSMTP();
@@ -16,14 +25,15 @@
 	$mail->Password = "Ayumusiam168"; // GMAIL password
 	$mail->From = "za-shi.com"; // "name@yourdomain.com";
 	//$mail->AddReplyTo = "support@thaicreate.com"; // Reply
-	$mail->FromName = "Mr.Weerachai Nukitram";  // set from Name
-	$mail->Subject = "Test sending mail.";
-	$mail->Body = "My Body & <b>My Description</b>";
+	$mail->FromName = $name;  // set from Name
+	$mail->Subject = $course;
+	$mes = $name."\n".$school."\n".$email."\n".$tel."\n".$course;
+	$mail->Body = $mes;
 
-	$mail->AddAddress("kim.kundad@gmail.com", "Mr.Adisorn Boonsong"); // to Address
+	$mail->AddAddress("zashischool@yahoo.com", $name); // to Address
 
-	$mail->AddAttachment("thaicreate/myfile.zip");
-	$mail->AddAttachment("thaicreate/myfile2.zip");
+	//$mail->AddAttachment("thaicreate/myfile.zip");
+	//$mail->AddAttachment("thaicreate/myfile2.zip");
 
 	//$mail->AddCC("member@thaicreate.com", "Mr.Member ShotDev"); //CC
 	//$mail->AddBCC("member@thaicreate.com", "Mr.Member ShotDev"); //CC
