@@ -23,14 +23,14 @@
 
 	<div id="main">
 		<div id="mainbar">
-		
+
 <!-- =============== START OF MAIN CONTENT ================= -->
 			<div class="item">
 				<!-- =========== topic ============ --> <img class="course_topic" src="images/topic-confirm.png" />
 				<!-- FORM ยืนยัน -->
 				<div class="maincol_5">
-			
-					<form method=post action="http://www.deksilp.com/stulist/confirmmail.php">
+
+					<form method=post action="phpmail/sent_mail.php.php">
 						<table cellpadding=5>
 							<tr>
 								<td><span class="strong">ชื่อ-นามสกุล </span>
@@ -61,11 +61,11 @@
 									<br /><span class="blue">โอน 23 เม.ย. เวลา 14:59</span>
 									<br /><br /><span class="orange">หรือ DREAM1 Sensation@Home</span>
 									<br /><span class="blue">โอน 23 เม.ย. เวลา 14:59</span>
-                                                                        
+
                                     <br /><br /><span class="green">และสำหรับนักเรียนระบบ Sensation@Home </span>
                                     <br /><span class="green">ให้กรอก "ที่อยู่" เพื่อที่จะได้จัดส่งหนังสือและรหัสการเรียน</span>
                                     <br /><span class="green">โดยพิมพ์ต่อจากข้อมูลการโอนค่าสมัครด้วยค่ะ เช่น</span>
-                                    
+
                                     <br /><br /><span class="orange">DREAM1 Sensation@Home</span>
 									<br /><span class="blue">โอน 23 เม.ย. เวลา 14:59</span>
                                     <br /><span class="blue">ที่อยู่ 99/25 ถ.สีลม แขวงสีลม</span>
@@ -74,12 +74,12 @@
 								<td><textarea name="course" id="course" rows="35" cols="30"></textarea></td>
 							</tr>
 							<tr>
-								<td class="strong" colspan="2"> 	 
+								<td class="strong" colspan="2">
 									<br />
-									หมายเหตุ: ในกรณีที่ระบบขัดข้อง สามารถส่งอีเมลยืนยันการสมัครเรียน 
+									หมายเหตุ: ในกรณีที่ระบบขัดข้อง สามารถส่งอีเมลยืนยันการสมัครเรียน
 									หรือสอบถามได้อีกทางที่  <input type=text name=mto value="zashiconfirm@yahoo.com" readonly="readonly">
 								</td>
-							</tr>			
+							</tr>
 						</table>
 						<p class="center strong" id="error"></p>
 						<p class="center" ><input id="submit" type="submit" value="ยืนยันการสมัครเรียน"></td></p>
@@ -88,12 +88,12 @@
 				</div>
 
 			</div>
-				
+
 <!-- =============== END  ================= -->
 
 		</div>
-		
+
 		<?php require_once("sidebar.php"); ?>
-		
+
 	</div>
 <?php require_once("footer.php"); ?>
