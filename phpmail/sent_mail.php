@@ -18,6 +18,7 @@
 	$mail = new PHPMailer();
 	$mail->IsHTML(true);
 	$mail->IsSMTP();
+  $mail->CharSet = "utf-8";
 	$mail->SMTPAuth = true; // enable SMTP authentication
 	$mail->SMTPSecure = "ssl"; // sets the prefix to the servier
 	$mail->Host = "smtp.gmail.com"; // sets GMAIL as the SMTP server
