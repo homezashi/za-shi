@@ -30,7 +30,7 @@
 				<!-- FORM ยืนยัน -->
 				<div class="maincol_5">
 
-					<form method=post action="phpmail/sent_mail.php.php">
+					<form method=post action="phpmail/sent_mail.php">
 						<table cellpadding=5>
 							<tr>
 								<td><span class="strong">ชื่อ-นามสกุล </span>
