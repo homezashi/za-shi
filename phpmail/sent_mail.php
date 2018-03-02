@@ -31,7 +31,7 @@
 	$mes = $name."<br>".$school."<br>".$email."<br>".$tel."<br>".$course;
 	$mail->Body = $mes;
 
-	$mail->AddAddress("kim.kundad@gmail.com", $name); // to Address
+	$mail->AddAddress("zashiconfirm@yahoo.com", $name); // to Address
 
 	//$mail->AddAttachment("thaicreate/myfile.zip");
 	//$mail->AddAttachment("thaicreate/myfile2.zip");
