@@ -27,7 +27,7 @@
 	$mail->From = "za-shi.com"; // "name@yourdomain.com";
 	//$mail->AddReplyTo = "support@thaicreate.com"; // Reply
 	$mail->FromName = $name;  // set from Name
-	$mail->Subject = $course;
+	$mail->Subject = "=?UTF-8?B?".base64_encode($course)."?=";
 	$mes = $name."<br>".$school."<br>".$email."<br>".$tel."<br>".$course;
 	$mail->Body = $mes;
 
