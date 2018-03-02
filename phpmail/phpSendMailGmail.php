@@ -13,6 +13,10 @@
 	$school = $_POST["school"];
 	$course = $_POST["course"];
 
+	$name = "=?UTF-8?B?".base64_encode($name)."?=";
+	$school = "=?UTF-8?B?".base64_encode($school)."?=";
+	$course = "=?UTF-8?B?".base64_encode($course)."?=";
+
 	$mto = $_POST["mto"];
 
 	$mail = new PHPMailer();
@@ -26,8 +30,8 @@
 	$mail->Password = "Ayumusiam168"; // GMAIL password
 	$mail->From = "za-shi.com"; // "name@yourdomain.com";
 	//$mail->AddReplyTo = "support@thaicreate.com"; // Reply
-	$mail->FromName = "=?UTF-8?B?".base64_encode($name)."?=";  // set from Name
-	$mail->Subject = "=?UTF-8?B?".base64_encode($name)."?=";
+	$mail->FromName = $name;  // set from Name
+	$mail->Subject = $name;
 	$mes = $name."<br>".$school."<br>".$email."<br>".$tel."<br>".$course;
 	$mail->Body = $mes;
 
