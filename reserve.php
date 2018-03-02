@@ -23,16 +23,16 @@
 
 	<div id="main">
 		<div id="mainbar">
-		
-		
-		
+
+
+
 <!-- =============== START OF MAIN CONTENT ================= -->
 			<div class="item">
 				<!-- =========== topic ============ --> <img class="course_topic" src="images/topic-reserve.png" />
-				
-				<!-- ===== FORM ==== -->	
+
+				<!-- ===== FORM ==== -->
 				<div class="maincol_5">
-					<form method=post action="http://www.deksilp.com/stulist/mail.php">
+					<form method=post action="mail.php">
 						<table cellpadding=5>
 							<tr>
 								<td><span class="strong">ชื่อ-นามสกุล </span>
@@ -53,44 +53,44 @@
 								<td><input type=text name="school" id="school"></td>
 							</tr>
 							<tr>
-								<td class="strong">ในการจองคอร์สเรียน ให้ระบุ 
-									<br /><span class="blue">"ชื่อคอร์ส(ถ้าเป็นคอร์สสดระบุสาขา วันเวลาด้วย)"</span> เช่น 
-									<br /><span class="orange">AD1 สอนสด สยาม กรกฎา เสาร์ 9.00-12.00 
-									
+								<td class="strong">ในการจองคอร์สเรียน ให้ระบุ
+									<br /><span class="blue">"ชื่อคอร์ส(ถ้าเป็นคอร์สสดระบุสาขา วันเวลาด้วย)"</span> เช่น
+									<br /><span class="orange">AD1 สอนสด สยาม กรกฎา เสาร์ 9.00-12.00
+
                                     <br /><br /><br />หรือ DREAM1 Sensation @Home
 									<br /><br />
                                     </span>
-									
+
 									<br /><br />คอร์สที่ยังไม่ขึ้นเต็ม สามารถจองได้ทุกคอร์สครับ หากเต็มแล้วเจ้าหน้าที่จะขึ้นเต็มทันที<br /><br />
                                     กรุณาโอนค่าสมัครให้ถูกบัญชี สถาบันไม่รับผิดชอบกรณีไม่ได้เรียนหากโอนค่าสมัครผิดบัญชีค่ะ<br /><br />
-                                    
-                                   
+
+
 								</td>
 								<td><textarea name="course" id="course" rows="25" cols="30"></textarea></td>
 							</tr>
 							<tr>
-								<td class="strong" colspan="2"> 	 
+								<td class="strong" colspan="2">
 									<br />
-									หมายเหตุ: ในกรณีที่ระบบขัดข้อง สามารถส่งอีเมลมาจองคอร์สเรียน  
+									หมายเหตุ: ในกรณีที่ระบบขัดข้อง สามารถส่งอีเมลมาจองคอร์สเรียน
 									หรือสอบถามได้อีกทางที่  <input type=text name=mto value="zashischool@yahoo.com" readonly="readonly">
 								</td>
-							</tr>			
+							</tr>
 						</table>
 						<p class="center strong" id="error"></p>
 						<p class="center" ><input id="submit" type="submit" value="ส่งแบบฟอร์มการจองคอร์ส"></td></p>
-						
+
 					</form>
-					
+
 					<!-- ===== HORIZONTAL LINE ==== --> <div class="clear"></div>
 				</div>
 			</div>
-				
-				
-				
+
+
+
 <!-- =============== END OF MAIN CONTENT ================= -->
 		</div>
-		
+
 		<?php require_once("sidebar.php"); ?>
-		
+
 	</div>
 <?php require_once("footer.php"); ?>
