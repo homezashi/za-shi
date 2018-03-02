@@ -41,6 +41,8 @@
 	$mail->set('X-Priority', '1'); //Priority 1 = High, 3 = Normal, 5 = low
 
 	$mail->Send();
+
+	header("Location:http://www.za-shi.com/register.php?ok=res");
 ?>
 </body>
 </html>
