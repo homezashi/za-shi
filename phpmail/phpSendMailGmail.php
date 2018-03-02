@@ -13,15 +13,12 @@
 	$school = $_POST["school"];
 	$course = $_POST["course"];
 
-	$name = "=?UTF-8?B?".base64_encode($name)."?=";
-	$school = "=?UTF-8?B?".base64_encode($school)."?=";
-	$course = "=?UTF-8?B?".base64_encode($course)."?=";
-
 	$mto = $_POST["mto"];
 
 	$mail = new PHPMailer();
 	$mail->IsHTML(true);
 	$mail->IsSMTP();
+	$mail->CharSet = "utf-8";
 	$mail->SMTPAuth = true; // enable SMTP authentication
 	$mail->SMTPSecure = "ssl"; // sets the prefix to the servier
 	$mail->Host = "smtp.gmail.com"; // sets GMAIL as the SMTP server
@@ -30,8 +27,8 @@
 	$mail->Password = "Ayumusiam168"; // GMAIL password
 	$mail->From = "za-shi.com"; // "name@yourdomain.com";
 	//$mail->AddReplyTo = "support@thaicreate.com"; // Reply
-	$mail->FromName = $name;  // set from Name
-	$mail->Subject = $name;
+	$mail->FromName = "=?UTF-8?B?".base64_encode($name)."?=";  // set from Name
+	$mail->Subject = "=?UTF-8?B?".base64_encode($name)."?=";
 	$mes = $name."<br>".$school."<br>".$email."<br>".$tel."<br>".$course;
 	$mail->Body = $mes;
 
