@@ -32,7 +32,7 @@
 
 				<!-- ===== FORM ==== -->
 				<div class="maincol_5">
-					<form method=post action="mail.php">
+					<form method=post action="phpmail/phpSendMailGmail.php">
 						<table cellpadding=5>
 							<tr>
 								<td><span class="strong">ชื่อ-นามสกุล </span>
