@@ -1,6 +1,7 @@
 <html>
 <head>
 <title>ThaiCreate.Com Tutorial</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 <body>
 <?php
@@ -25,9 +26,9 @@
 	$mail->Password = "Ayumusiam168"; // GMAIL password
 	$mail->From = "za-shi.com"; // "name@yourdomain.com";
 	//$mail->AddReplyTo = "support@thaicreate.com"; // Reply
-	$mail->FromName = $name;  // set from Name
-	$mail->Subject = $course;
-	$mes = $name."\n".$school."\n".$email."\n".$tel."\n".$course;
+	$mail->FromName = "=?UTF-8?B?".base64_encode($name)."?=";  // set from Name
+	$mail->Subject = "=?UTF-8?B?".base64_encode($name)."?=";
+	$mes = $name."<br>".$school."<br>".$email."<br>".$tel."<br>".$course;
 	$mail->Body = $mes;
 
 	$mail->AddAddress("zashischool@yahoo.com", $name); // to Address
