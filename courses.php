@@ -1,5 +1,4 @@
 ﻿<?php
-error_reporting(0);
 	$act = $_GET['id']; 
 	$cor[$act] = 'course_active';
 	$m_select[$act] = 'blue italic';
@@ -90,17 +89,17 @@ error_reporting(0);
                     <a href="images/course/PAT_2018_April.png" target="blank"><img src="images/button_ready_sum.png" /></a>
                     <!-- PRINT --><a href="images/course/PAT_2018_April.png" target="blank"><img src="images/button_print.png" /></a>
                     
-                    <a href="images/wait.gif" target="blank"><img src="images/button_schedule_opensem1_wait.png" /></a>
-                    <!-- PRINT --><a href="images/wait.gif" target="blank"><img src="images/button_print.png" /></a>
+                    <a href="images/course/PAT_2018_01.png" target="blank"><img src="images/button_schedule_opensem1.png" /></a>
+                    <!-- PRINT --><a href="images/course/PAT_2018_01.png" target="blank"><img src="images/button_print.png" /></a>
                     
                    
                     
-                    <a href="images/course/PAT_2017_OCT.png" target="blank"><img src="images/button_schedule_openoct.png" /></a>
-                    <!-- PRINT --><a href="images/course/PAT_2017_OCT.png" target="blank"><img src="images/button_print.png" /></a>
+                    <a href="images/wait.gif" target="blank"><img src="images/button_oct_wait.png" /></a>
+                    <!-- PRINT --><a href="images/wait.gif" target="blank"><img src="images/button_print.png" /></a>
 
                    
-                    <a href="images/course/PAT_2018_JanFeb.png" target="blank"><img src="images/button_ready_sem2.png" /></a>
-                    <!-- PRINT --><a href="images/course/PAT_2018_JanFeb.png" target="blank"><img src="images/button_print.png" /></a>
+                    <a href="images/wait.gif" target="blank"><img src="images/button_sem2_wait.png" /></a>
+                    <!-- PRINT --><a href="images/wait.gif" target="blank"><img src="images/button_print.png" /></a>
                     
 					
                     <a href="images/course/zelf_table.jpg" target="blank"><img src="images/button_sensation_ad1.png" /></a>
@@ -143,17 +142,17 @@ error_reporting(0);
                     <a href="images/course/PAT_2018_April.png" target="blank"><img src="images/button_ready_sum.png" /></a>
                     <!-- PRINT --><a href="images/course/PAT_2018_April.png" target="blank"><img src="images/button_print.png" /></a>
                     
-                    <a href="images/wait.gif" target="blank"><img src="images/button_schedule_opensem1_wait.png" /></a>
-                    <!-- PRINT --><a href="images/wait.gif" target="blank"><img src="images/button_print.png" /></a>
+                    <a href="images/course/PAT_2018_01.png" target="blank"><img src="images/button_schedule_opensem1.png" /></a>
+                    <!-- PRINT --><a href="images/course/PAT_2018_01.png" target="blank"><img src="images/button_print.png" /></a>
                     
                    
                     
-                    <a href="images/course/PAT_2017_OCT.png" target="blank"><img src="images/button_schedule_openoct.png" /></a>
-                    <!-- PRINT --><a href="images/course/PAT_2017_OCT.png" target="blank"><img src="images/button_print.png" /></a>
+                    <a href="images/wait.gif" target="blank"><img src="images/button_oct_wait.png" /></a>
+                    <!-- PRINT --><a href="images/wait.gif" target="blank"><img src="images/button_print.png" /></a>
 
                    
-                    <a href="images/course/PAT_2018_JanFeb.png" target="blank"><img src="images/button_ready_sem2.png" /></a>
-                    <!-- PRINT --><a href="images/course/PAT_2018_JanFeb.png" target="blank"><img src="images/button_print.png" /></a>
+                    <a href="images/wait.gif" target="blank"><img src="images/button_sem2_wait.png" /></a>
+                    <!-- PRINT --><a href="images/wait.gif" target="blank"><img src="images/button_print.png" /></a>
                     
 					
                     <a href="images/course/zelf_table.jpg" target="blank"><img src="images/button_sensation_ad1.png" /></a>

@@ -47,11 +47,7 @@
 
                      <br />
                     
-                    <div class="maincol_5">
-						<img class="imgshadow" src="images/course/PAT_2018_JanFeb.png" width=600/>
-                        
-                        </div>
-                        
+                                            
 					<!-- </div>
                     
                     <div class="maincol_5">
@@ -61,7 +57,7 @@
                     </div> -->
                     
                     <div class="maincol_5">
-						<img class="imgshadow" src="images/course/PAT_2018_April.png" width=600/>
+						<img class="imgshadow" src="images/course/PAT_2018_01.png" width=600/>
                         
                         
                     </div>
