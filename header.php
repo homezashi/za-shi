@@ -35,7 +35,13 @@
 						<div class="col_2">
 							<h3>AD1 ติวสอบ PAT  </h3>
 
-							<div class="imgshadow img_left"><img src="images/but-ad1.gif" width="110" ></div>
+							<div style="float: left; margin: 0px 15px 5px 5px; background: #FFFFFF;
+    padding: 4px;
+    border: 1px solid #777777;
+    margin-top: 5px;
+    -moz-box-shadow: 0px 0px 5px #666666;
+    -webkit-box-shadow: 0px 0px 5px #666666;
+    box-shadow: 0px 0px 5px #666666;"><img src="images/but-ad1.gif" width="110" ></div>
 							<p>ติวเนื้อหา PAT ญี่ปุ่น ครูพี่โฮม ไวยากรณ์ ศัพท์ คันจิ การอ่าน ม.4-6 และติวสอบ N4<a href="courses.php?id=1">ดูรายละเอียดที่นี่</a>
 							</p>
 
