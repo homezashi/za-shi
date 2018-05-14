@@ -17,9 +17,9 @@
 					<div class="textbox">
 						<p class="center strong">
 							พบกับเฉลยข้อสอบ PAT 7.3 ภาษาญี่ปุ่นล่าสุด <span class="orange">ติวสอบวัดระดับภาษาญี่ปุ่น N1 N2 N3 N4 N5</span>
-							<br />กวดวิชาภาษาญี่ปุ่น ติวไวยากรณ์ ศัพท์ คันจิ N1 N2 N3 N4 N5 กับครูพี่โฮม
+							<br />ผู้นำการเรียนภาษาญี่ปุ่นออนไลน์ ครูพี่โฮมและเอ็ตจัง
 							
-							<br /><span class="blue">อัพเดตเนื้อหาใหม่ล่าสุด 2559 รับสมัครแล้ว !!</span>
+							<br /><span class="blue"> ติว PAT เยอรมัน (ครูพี่กุ้ง) รับสมัครแล้ว</span>
 						</p>
 					</div>
 				</div>
@@ -65,7 +65,7 @@
                     
                     <br />
                  <div class="maincol_5">
-						<img class="imgshadow" src="images/course/JLPT_2018_01.png" width=600/>
+						<img class="imgshadow" src="images/course/zelf_table.jpg" width=600/>
                         
                         
                     </div>
@@ -78,88 +78,15 @@
 				<div class="maincol_5">
 					<div class="textbox">
 						<p class="center strong">
-							หน้ารวบรวมความรู้ <span class="orange">ติว N1 N2 N3 N4 N5</span>
-							<br />ติดตามเพิ่มเติมได้ที่เมนู "ติวญี่ปุ่นฟรี"
+							เปิดตัวแอพพลิเคชั่นใหม่ <span class="orange">Learnsbuy</span>
+							<br />เรียนภาษาญี่ปุ่น เยอรมัน เกาหลี จีน ออนไลน์
 							
-							<br /><span class="blue">ZA-SHI ผู้นำการเรียนภาษาญี่ปุ่นออนไลน์</span>
+							<br /><span class="blue">Learnsbuy ผู้นำการเรียนภาษาออนไลน์</span>
 						</p>
 					</div>
 				</div>
         
-                     <div class="maincol_2 post">
-					<h3>ติวศัพท์ N1</h3>
-					<img class="img_left imgshadow" src="images/live.gif" width=70 />
-					
-					 <p><a href="00001.php" target="blank">   ★まして ใช้เน้นตรง B ว่าขนาด A 
-  ยัง... เลย B ยิ่ง... (อ่านต่อ)</a>
-</p>                        			
-					
-				</div>
-            
-         
-				<div class="maincol_2 post">
-					<h3>ติวคันจิ N1 ศัพท์ล่ามญี่ปุ่น</h3>
-					<img class="img_left imgshadow" src="images/live.gif" width=70 />
-					
-					 <p><a href="00002.php" target="blank">   ★肺 แปลว่า 
- "ปอด" (อ่านต่อ)</a>
-</p>                        			
-					
-				</div>
-                
-                <div class="maincol_2 post">
-					<h3>ติวไวยากรณ์ N1</h3>
-					<img class="img_left imgshadow" src="images/live.gif" width=70 />
-					
-					 <p><a href="00003.php" target="blank">   ★めく ที่ถูกต้องนั้นใช้อย่างไร (อ่านต่อ)</a>
-</p>                        			
-					
-				</div>
-        <div class="maincol_2 post">
-					<h3>ติว N2 (ศัพท์ คันจิ)</h3>
-					<img class="img_left imgshadow" src="images/live.gif" width=70 />
-					
-					 <p><a href="00004.php" target="blank"> ★固い 硬い 堅い★ ต่างกันยังไง(อ่านต่อ)</a>
-</p>                        			
-					
-				</div>
-         <div class="maincol_2 post">
-					<h3>ติวศัพท์ N2</h3>
-					<img class="img_left imgshadow" src="images/tuen3.gif" width=70 />
-					
-					    <p></p>
-                 					
-				</div> 
-           <div class="maincol_2 post">
-					<h3>ติวคันจิ N2</h3>
-					<img class="img_left imgshadow" src="images/tuen3.gif" width=70 />
-					
-					    <p></p>
-                 					
-				</div> 
-                
-                <div class="maincol_2 post">
-					<h3>ติวสอบวัดระดับ N1</h3>
-					<img class="img_left imgshadow" src="images/tuen3.gif" width=70 />
-					
-					    <p></p>
-                 					
-				</div> 
-        
-         <div class="maincol_2 post">
-					<h3>ติวสอบวัดระดับ N2</h3>
-					<img class="img_left imgshadow" src="images/tuen3.gif" width=70 />
-					
-					    <p></p>
-                 					
-				</div> 
-                 <div class="maincol_2 post">
-					<h3>ติวสอบวัดระดับ N3</h3>
-					<img class="img_left imgshadow" src="images/tuen3.gif" width=70 />
-					
-					    <p></p>
-                 					
-				</div> 
+                     
         
         
         </div>
@@ -367,59 +294,7 @@
 <!-- horizontal Line --><div class="clear"></div>
 
 
-<table width="100%" border="0">
 
-<tr>
-    <td>1 กันยา 59</td>
-    <td><strong style="color: #F00">ตารางคอร์สติว PAT 7.3 ภาษาญี่ปุ่น 2560 รอบตุลา<br /><br />
-      
-      กำลังจะออกเร็ว ๆ นี้ค่ะ<br />
-<strong style>
- <br />
-      สนใจสอบถามที่ HOTLINE ได้ค่ะ 
-      </strong><br />
-      <br />
-      
-      เรียนสดกับครูพี่โฮมตัวจริงก่อนใคร<br /><br />
-     </td>
-  </tr>
-
-  
-<tr>
-    <td>1 กันยา 59</td>
-    <td><strong style="color: #F00">ตารางคอร์สติวสอบวัดระดับภาษาญี่ปุ่น JLPT N1 N2 N3 N4 N5 ปี 2016 ออกแล้ว<br /><br />
-      
-      อัพเดตเนื้อหาใหม่ล่าสุด ติวศัพท์ คันจิ ไวยากรณ์ การอ่าน การฟัง N1 N2 ธันวา 59<br />
-<br />
-<strong style>
-
-ZA-SHI มีทั้งระบบสอนสดและ Sensation<br /><br />
-การเรียน Sensation@Home เป็นอีกทางเลือกหนึ่งสำหรับ<br /><br />
-คนอยู่ไกล หรือเวลาน้อยค่ะ</td>
-  </tr>
-  
-  
-
-  
-  
-  
-<!--<tr>
-    <td>20 สิงหา 56</td>
-    <td><strong style="color: #F00">ตารางคอร์ส DREAM รอบใหม่ (กันยา'56-กุมภา'57)ออกแล้วค่ะ<br />
-      </strong>
-      - คอร์สญี่ปุ่นพื้นฐาน DREAM สำหรับบุคคลทั่วไป<br />
-และน้อง ม.ต้น / สายวิทย์ / ศิลป์ที่ไม่มีพื้นฐานหรือมีพื้นฐานมาบ้าง อยากสอบ PAT ญี่ปุ่น</td>
-  </tr> -->
-     
-         
-  <!--<tr>
-    <td>14 กันยา 55</td>
-    <td><strong>ครูพี่โฮมได้รับเกียรติไปเป็นอาจารย์พิเศษเพื่อเตรียมความพร้อมในการสอบ PAT<br />
-      ภาษาญี่ปุ่นให้แก่น้อง ๆ ม.6 <span style="color: #F00">ร.ร.สตรีวิทยา 2</span></strong><br />
-      <a href="#society">คลิกดูรายละเอียดที่นี่ </a></td>
-  </tr> -->
-  
-</table> 
 
 
 
@@ -487,9 +362,7 @@ ZA-SHI มีทั้งระบบสอนสดและ Sensation<br /><br
 		
        	</div>
         
-        <a href="http://overseas.blogmura.com/ranking.html" target="_blank">にほんブログ村 海外生活ブログ</a>
-        <a href="http://overseas.blogmura.com/thailand/ranking.html" target="_blank">にほんブログ村 タイ情報</a>
-        <a href="http://education.blogmura.com/nihongo/ranking.html" target="_blank">にほんブログ村 日本語教育</a>
+        
         
 <?php require_once("footer.php"); ?>
 
