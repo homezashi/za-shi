@@ -35,7 +35,7 @@
 						<div class="col_2">
 							<h3>AD1 ติวสอบ PAT  </h3>
 
-							<div class="imgshadow img_left"><img src="images/but-ad1.gif" width=110 style="display: block !important;"/></div>
+							
 							<p>ติวเนื้อหา PAT ญี่ปุ่น ครูพี่โฮม ไวยากรณ์ ศัพท์ คันจิ การอ่าน ม.4-6 และติวสอบ N4<a href="courses.php?id=1">ดูรายละเอียดที่นี่</a>
 							</p>
 
