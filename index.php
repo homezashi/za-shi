@@ -69,6 +69,12 @@
                         
                         
                     </div>
+                    
+                    <div class="maincol_5">
+						<img class="imgshadow" src="images/course/JLPT_2018_02.png" width=600/>
+                        
+                        
+                    </div>
                  
                  
 
