@@ -86,11 +86,11 @@
 				<div class="maincol_3"> <!-- schedule --> 
 					
                     
-                    <a href="images/wait.gif" target="blank"><img src="images/button_summer_wait.png" /></a>
-                    <!-- PRINT --><a href="images/wait.gif" target="blank"><img src="images/button_print.png" /></a>
+                    <a href="images/course/PAT_2018_02.png" target="blank"><img src="button_ready_sum.png" /></a>
+                    <!-- PRINT --><a href="images/course/PAT_2018_02.png" target="blank"><img src="images/button_print.png" /></a>
                     
-                    <a href="images/course/PAT_2018_01.png" target="blank"><img src="images/button_schedule_opensem1.png" /></a>
-                    <!-- PRINT --><a href="images/course/PAT_2018_01.png" target="blank"><img src="images/button_print.png" /></a>
+                    <a href="images/wait.gif" target="blank"><img src="images/button_schedule_opensem1_wait.png" /></a>
+                    <!-- PRINT --><a href="images/wait.gif" target="blank"><img src="images/button_print.png" /></a>
                     
                    
                     
@@ -98,8 +98,8 @@
                     <!-- PRINT --><a href="images/course/PAT_2018_01.png" target="blank"><img src="images/button_print.png" /></a>
 
                    
-                    <a href="images/wait.gif" target="blank"><img src="images/button_sem2_wait.png" /></a>
-                    <!-- PRINT --><a href="images/wait.gif" target="blank"><img src="images/button_print.png" /></a>
+                     <a href="images/course/PAT_2018_02.png" target="blank"><img src="button_ready_sem2.png" /></a>
+                    <!-- PRINT --><a href="images/course/PAT_2018_02.png" target="blank"><img src="images/button_print.png" /></a>
                     
 					
                     <a href="images/course/zelf_table.jpg" target="blank"><img src="images/button_sensation_ad1.png" /></a>
@@ -139,11 +139,11 @@
 				
                 <div class="maincol_3"> <!-- schedule --> 
 					
-                     <a href="images/wait.gif" target="blank"><img src="images/button_summer_wait.png" /></a>
-                    <!-- PRINT --><a href="images/wait.gif" target="blank"><img src="images/button_print.png" /></a>
+                     <a href="images/course/PAT_2018_02.png" target="blank"><img src="button_ready_sum.png" /></a>
+                    <!-- PRINT --><a href="images/course/PAT_2018_02.png" target="blank"><img src="images/button_print.png" /></a>
                     
-                    <a href="images/course/PAT_2018_01.png" target="blank"><img src="images/button_schedule_opensem1.png" /></a>
-                    <!-- PRINT --><a href="images/course/PAT_2018_01.png" target="blank"><img src="images/button_print.png" /></a>
+                    <a href="images/wait.gif" target="blank"><img src="images/button_schedule_opensem1_wait.png" /></a>
+                    <!-- PRINT --><a href="images/wait.gif" target="blank"><img src="images/button_print.png" /></a>
                     
                    
                     
@@ -151,8 +151,8 @@
                     <!-- PRINT --><a href="images/course/PAT_2018_01.png" target="blank"><img src="images/button_print.png" /></a>
 
                    
-                    <a href="images/wait.gif" target="blank"><img src="images/button_sem2_wait.png" /></a>
-                    <!-- PRINT --><a href="images/wait.gif" target="blank"><img src="images/button_print.png" /></a>
+                     <a href="images/course/PAT_2018_02.png" target="blank"><img src="button_ready_sem2.png" /></a>
+                    <!-- PRINT --><a href="images/course/PAT_2018_02.png" target="blank"><img src="images/button_print.png" /></a>
                     
 					
                     <a href="images/course/zelf_table.jpg" target="blank"><img src="images/button_sensation_ad1.png" /></a>
@@ -300,8 +300,8 @@
 					 and add a link to the picture at HREF attribute***
 					 Example:  <a class="popupimage" href="images/course/Banner-AD1-Sem2-54.gif"> images or text </a>
 					 -->
-                    <a href="images/BannerSum60.gif" target="blank"><img src="images/button_sensation_akiko_sem.png" /></a>
-					<!--PRINT --><a href="images/course/BannerSum60.gif" target="blank"><img src="images/button_print.png" /></a>
+                    <a href="images/course/zelf_table.jpg" target="blank"><img src="images/button_sensation_akiko_sem.png" /></a>
+					<!--PRINT --><a href="images/course/zelf_table.jpg" target="blank"><img src="images/button_print.png" /></a>
                     
 					<a href="images/course/zelf_table.jpg" target="blank"><img src="images/button_sensation_akiko_home.png" /></a>
 					<!--PRINT --><a href="images/course/zelf_table.jpg" target="blank"><img src="images/button_print.png" /></a>

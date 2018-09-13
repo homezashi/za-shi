@@ -57,7 +57,7 @@
                     </div> -->
                     
                     <div class="maincol_5">
-						<img class="imgshadow" src="images/course/PAT_2018_01.png" width=600/>
+						<img class="imgshadow" src="images/course/PAT_2018_02.png" width=600/>
                         
                         
                     </div>
