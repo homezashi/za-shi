@@ -112,7 +112,7 @@
 
 
 				<!-- ========== menu 7 ========== -->
-				<li><a href="https://za-shi.org">สาขาและสมัครเรียน</a></li>
+				<li><a href="register.php">สาขาและสมัครเรียน</a></li>
 			</ul>
 
 		</div>
