@@ -65,7 +65,7 @@
 
                     <br />
                  <div class="maincol_5">
-						<img class="imgshadow" src="images/course/course/PAT_2019_01.png" width=600/>
+						<img class="imgshadow" src="images/course/PAT_2019_01.png" width=600/>
 
 
                     </div>
