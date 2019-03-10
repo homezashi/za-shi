@@ -74,19 +74,17 @@
 			<!-- =========== AD1 ============ -->
 			<div class="item course <?php echo $cor[1]; ?>" id="course1">
 			
-				<!-- =========== topic ============ --> 
-				<img class="course_topic" src="images/course-topic_ad1.png" />
 				
-				<!-- register button --> 
-				<div class="maincol_2">
-					<a href="register.php"><img class="img_right" src="images/button_register.png" /></a> 
+				<!-- =========== topic ============ --> <img class="course_topic" src="images/course-topic_ad1.png" />
+				
+                
+				<div class="maincol_2"> <!-- register button --> 
+					<a href="register.php"><img class="img_right" src="images/button_register.png" /></a>
 				</div>
 				
-				<!-- schedule -->
-				<div class="maincol_3"> <!-- schedule --> 
+                <div class="maincol_3"> <!-- schedule --> 
 					
-                    
-                    <a href="images/course/PAT_2018_02.png" target="blank"><img src="images/button_ready_sum.png" /></a>
+                   <a href="images/course/PAT_2018_02.png" target="blank"><img src="images/button_ready_sum.png" /></a>
                     <!-- PRINT --><a href="images/course/PAT_2018_02.png" target="blank"><img src="images/button_print.png" /></a>
                     
                    <a href="images/course/PAT_2019_01.png" target="blank"><img src="images/button_schedule_opensem1.png" /></a>
@@ -101,19 +99,16 @@
                                       
                     <a href="images/wait.gif" target="blank"><img src="images/button_sem2_wait.png" /></a>
                     <!-- PRINT --><a href="images/wait.gif" target="blank"><img src="images/button_print.png" /></a>
-                    
 					
-	      </div>
-				
+	      		 </div>
+                
+                								
 				<!-- dashed line --><div class="clear"></div> 
 				<div class="maincol_5"> <!-- details --> 
 					<img  class="imgshadow" src="images/success1.jpg" alt="" width=600 />
                     
                     <br />
-                    <div class="maincol_5">
-					<a class="popupimage" href="images/truth.jpg" target="blank"><img  class="imgshadow" src="images/truth.jpg" alt="" width=600 /></a>
-		</div>
-					                    
+                    					                    
 					
 				</div>
 				<!-- details --> 
@@ -164,9 +159,7 @@
 					<img  class="imgshadow" src="images/success1.jpg" alt="" width=600 />
                     
                     <br />
-                    <div class="maincol_5">
-					<a class="popupimage" href="images/truth.jpg" target="blank"><img  class="imgshadow" src="images/truth.jpg" alt="" width=600 /></a>
-		</div>
+                    
 					                    
 					
 				</div>

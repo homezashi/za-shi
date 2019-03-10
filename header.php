@@ -16,55 +16,55 @@
 <body>
 <div id="container">
 	<div class="title_sidebar" id="header">
-
+		
 		<!-- ==========LOGO ========== -->
 		<div id="logo">
-			<img src="images/logo.jpg?v2" />
+			<img src="images/logo.jpg" />
 		</div>
-
+		
 		<!-- ========== NAVIGATOR ========== -->
 		<div id="nav">
 			<ul>
 				<!-- ========== menu 1 ========== -->
 				<li class="first"><a href="index.php">หน้าแรก</a></li>
-
+				
 				<!-- ========== menu 2 ========== -->
 				<li><a href="courses.php" class="drop">คอร์ส/ตารางเรียน>></a>
 					<!-- ========== dropdown เวลาไปชี้ ========== -->
-					<div class="dropdown_4columns">
-						<div class="col_2">
+					<div class="dropdown_4columns">  
+						<div class="col_2">  
 							<h3>AD1 ติวสอบ PAT  </h3>
 							<div class="imgshadow img_left"><img src="images/but-ad1.gif" width=110 /></div>
 							<p>ติวเนื้อหา PAT ญี่ปุ่น ครูพี่โฮม ไวยากรณ์ ศัพท์ คันจิ การอ่าน ม.4-6 และติวสอบ N4<a href="courses.php?id=1">ดูรายละเอียดที่นี่</a>
-							</p>
-
-						</div>
-
-						<div class="col_2">
+							</p>  
+							
+						</div>  
+                        
+						<div class="col_2">  
 							<h3>AD2 ติวสอบ PAT </h3>
 							<div class="imgshadow img_left"><img src="images/but-ad2.gif" width=110 /></div>
 							<p>วิเคราะห์ตะลุยโจทย์ PAT ญี่ปุ่นทุกพาร์ท เก็งข้อสอบ เฉลยละเอียดพร้อมเทคนิคมากมาย
 							<a href="courses.php?id=2">ดูรายละเอียดที่นี่</a>
-							</p>
-						</div>
-
-						<div class="col_2">
+							</p>  
+						</div>  
+                        
+						<div class="col_2">  
 							<h3>ติวสอบวัดระดับ - เรียนเสริมระดับมหา'ลัย   </h3>
 							<div class="imgshadow img_left"><img src="images/but-thep.gif" width=110 /></div>
 							<p>ติวไวยากรณ์ ศัพท์ คันจิ การฟัง การอ่าน เตรียมสอบวัดระดับภาษาญี่ปุ่น N5 N4 N3 N2 N1 เสริมการเรียนเอกญี่ปุ่นในมหาวิทยาลัย
 							<a href="courses.php?id=3">ดูรายละเอียดที่นี่</a>
-							</p>
-						</div>
-
-						<div class="col_2">
+							</p>  
+						</div> 
+                        
+						<div class="col_2">  
 							<h3>DREAM คอร์สพื้นฐาน  </h3>
 							<div class="imgshadow img_left"><img src="images/but-dream.gif" width=110 /></div>
 							<p>สำหรับนักเรียนที่ไม่ได้เรียนศิลป์ญี่ปุ่น และบุคคลทั่วไป ปูพื้นฐานก่อนลงติว PAT ญี่ปุ่นหรือติวสอบวัดระดับ
 							<a href="courses.php?id=4">ดูรายละเอียดที่นี่</a>
 							<br/><br/><br/>	<br/>
-							</p>
-						</div>
-
+							</p>  
+						</div> 
+                        
 						<div class="col_1">&nbsp;</div>
 						<div class="col_3">
 							<p><a style="font-size:20px; color:white;" href="courses.php"> คอร์สและตารางเรียนทั้งหมด</a></p>
@@ -74,10 +74,10 @@
 				</li>
 				<!-- ========== menu 6 ========== -->
 				<li><a href="omedetou.php">สุดยอดผลงานการติว</a></li>
-
-
+                
+				
 					<!-- ========== dropdown เวลาไปชี้ ========== -->
-					<!--<div class="dropdown_3columns">
+					<!--<div class="dropdown_3columns">  
 						<div class="col_3">
 							<h3>รู้จักกับ Sensation</h3>
 							<p>
@@ -91,42 +91,45 @@
 					</div> -->
 					<!-- ========== END dropdown เวลาไปชี้ ========== -->
 				</li>
-
+				
 				<!-- ========== menu 4 ========== -->
 				<li><a href="about.php">เกี่ยวกับ ZA-SHI</a></li>
-
+                
                 <!-- ========== menu 3 ========== -->
 				<li>	<a href="online.php">ติวญี่ปุ่นฟรี</a>
-
+				
 				<!-- ========== menu 5 ========== -->
 				<li><a href="profiles.php">ประวัติคุณครู</a></li>
-
-
-
+				
+				
+				
 				<!-- ========== menu 7 ========== -->
 				<li><a href="register.php">สาขาและสมัครเรียน</a></li>
 			</ul>
-
+			
 		</div>
-
+		
 		<!-- ========== SLIDER ========== -->
-		<div class="slider-wrapper theme-default  bg_slider">
+		<div class="slider-wrapper theme-default  bg_slider"> 
 			<div id="slider" class="nivoSlider">
-
+                
                 <!--<a href="http://www.ziel-deutsch.com" target="blank"><img src="images/ziel-slide.gif" width=710 height=190 alt="" /></a>
                  <a href="http://www.ziel-deutsch.com" target="blank"><img src="images/ziel-slide.gif" width=710 height=190 alt="" /></a> -->
-				<img src="images/slide_german.jpg" width=710 height=190 alt="" />
+				<img src="images/course/slide_dekd.jpg" width=710 height=190 alt="" />
+                <img src="images/slide_learnsbuy.jpg" width=710 height=190 alt="" />
                <img src="images/slide_kanji.jpg" width=710 height=190 alt="" />
 				<img src="images/slide_pat.jpg" width=710 height=190 alt="" />
-				<img src="images/slide_learnsbuy.jpg" width=710 height=190 alt="" />
-
-
+				<img src="images/course/slide_dekd.jpg" width=710 height=190 alt="" />
+                <img src="images/slide_learnsbuy.jpg" width=710 height=190 alt="" />
+               
+				
       </div>
         </div>
-
+		
 		<!-- ========= MENU BANNER ที่มี facebook ========== -->
 		<div id="facebook">
-			<a href="http://www.learnsbuy.com" target="blank"><img src="images/learnsbuy.jpg" width=170 /></a>
+			<a href="http://www.learnsbuy.com" target="blank"><img src="images/course/learnsbuy2.gif" width=170 /></a>
             <a href="http://www.facebook.com/pat300" target="blank"><img src="images/facebook_pat.gif" width=170 /></a>
             <a href="http://www.facebook.com/jlptonline" target="blank"><img src="images/facebook_jlpt.gif" width=170 /></a>
             </div>
+           
