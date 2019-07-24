@@ -84,9 +84,10 @@
 				
                 <div class="maincol_3"> <!-- schedule --> 
 					
-                   <a href="images/course/PAT_2018_02.png" target="blank"><img src="images/button_ready_sum.png" /></a>
-                    <!-- PRINT --><a href="images/course/PAT_2018_02.png" target="blank"><img src="images/button_print.png" /></a>
+                   <a href="images/wait.gif" target="blank"><img src="images/button_summer_wait.png" /></a>
+                    <!-- PRINT --><a href="images/wait.gif" target="blank"><img src="images/button_print.png" /></a>
                     
+                                        
                    <a href="images/course/PAT_2019_01.png" target="blank"><img src="images/button_schedule_opensem1.png" /></a>
                     <!-- PRINT --><a href="images/course/PAT_2019_01.png" target="blank"><img src="images/button_print.png" /></a>
                     
@@ -97,8 +98,8 @@
 
                    
                                       
-                    <a href="images/wait.gif" target="blank"><img src="images/button_sem2_wait.png" /></a>
-                    <!-- PRINT --><a href="images/wait.gif" target="blank"><img src="images/button_print.png" /></a>
+                    <a href="images/course/PAT_2019_02.png" target="blank"><img src="images/button_ready_sem2.png" /></a>
+                    <!-- PRINT --><a href="images/course/PAT_2019_02.png" target="blank"><img src="images/button_print.png" /></a>
 					
 	      		 </div>
                 
@@ -130,9 +131,10 @@
 				
                 <div class="maincol_3"> <!-- schedule --> 
 					
-                   <a href="images/course/PAT_2018_02.png" target="blank"><img src="images/button_ready_sum.png" /></a>
-                    <!-- PRINT --><a href="images/course/PAT_2018_02.png" target="blank"><img src="images/button_print.png" /></a>
+                   <a href="images/wait.gif" target="blank"><img src="images/button_summer_wait.png" /></a>
+                    <!-- PRINT --><a href="images/wait.gif" target="blank"><img src="images/button_print.png" /></a>
                     
+                                        
                    <a href="images/course/PAT_2019_01.png" target="blank"><img src="images/button_schedule_opensem1.png" /></a>
                     <!-- PRINT --><a href="images/course/PAT_2019_01.png" target="blank"><img src="images/button_print.png" /></a>
                     
@@ -143,8 +145,8 @@
 
                    
                                       
-                    <a href="images/wait.gif" target="blank"><img src="images/button_sem2_wait.png" /></a>
-                    <!-- PRINT --><a href="images/wait.gif" target="blank"><img src="images/button_print.png" /></a>
+                    <a href="images/course/PAT_2019_02.png" target="blank"><img src="images/button_ready_sem2.png" /></a>
+                    <!-- PRINT --><a href="images/course/PAT_2019_02.png" target="blank"><img src="images/button_print.png" /></a>
 					
 	      </div>
 				
