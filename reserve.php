@@ -72,7 +72,7 @@
 								<td class="strong" colspan="2">
 									<br />
 									หมายเหตุ: ในกรณีที่ระบบขัดข้อง สามารถส่งอีเมลมาจองคอร์สเรียน
-									หรือสอบถามได้อีกทางที่  <input type=text name=mto value="zashischool@yahoo.com" readonly="readonly">
+									หรือสอบถามได้อีกทางที่  <input type=text name=mto value="learnsbuy@gmail.com" readonly="readonly">
 								</td>
 							</tr>
 						</table>

@@ -25,7 +25,7 @@
 	$mail->Host = "smtp.gmail.com"; // sets GMAIL as the SMTP server
 	$mail->Port = 465; // set the SMTP port for the GMAIL server
 	$mail->Username = "learnsbuy@gmail.com"; // GMAIL username
-	$mail->Password = "Ayumusiam168"; // GMAIL password
+	$mail->Password = "Ayumusiam365"; // GMAIL password
 	$mail->From = "za-shi.com"; // "name@yourdomain.com";
 	//$mail->AddReplyTo = "support@thaicreate.com"; // Reply
 	$mail->FromName = "=?UTF-8?B?".base64_encode($name)."?=";  // set from Name
