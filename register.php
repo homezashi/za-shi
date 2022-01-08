@@ -1,8 +1,7 @@
-﻿<?php
-error_reporting(0);
+﻿<?php 
 	//session_start();
-
-	$page = $_GET['page'];
+	
+	$page = $_GET['page']; 
 	$ok = $_GET['ok'];
 ?>
 
@@ -13,12 +12,12 @@ error_reporting(0);
 
 	<div id="main">
 		<div id="mainbar">
-
-
+		
+		
 <!-- =============== START OF MAIN CONTENT ================= -->
 
 
-			<?php
+			<?php 
 			if($ok=="res")
 				{
 				?>
@@ -56,11 +55,11 @@ error_reporting(0);
 							</span>
 						</p>
 						<p class="strong">
-							สำหรับคอร์ส @Home จะจัดส่งหนังสือไปตามที่อยู่
+							สำหรับคอร์ส @Home จะจัดส่งหนังสือไปตามที่อยู่ 
 							<br />
 							<ul>
 								<li>ใช้เวลา 3-14 วัน ขึ้นอยู่กับสต็อกหนังสือและไปรษณีย์ค่ะ</li>
-
+								
 							</ul>
 						</p>
 					</div>
@@ -69,9 +68,9 @@ error_reporting(0);
 					//unset($_SESSION['confirm']);
 				}
 				?>
-
+				
 			<!-- ===== HORIZONTAL LINE ====== --><div class="clear"></div>
-
+			
 			<!-- ===== MENU [REGIS OR CONTACT] ====== -->
 			<div class="item">
 				<div id="mainmenu" class="maincol_5">
@@ -83,76 +82,76 @@ error_reporting(0);
 				<script type="text/javascript">
 					$('.notWannaShowBefore').hide();
 				</script>
-
+					
 			</div>
-
+			
 			<!-- ===== HORIZONTAL LINE ====== --><div class="clear"></div>
-
+			
 
 			<!-- =========== REGISTER ============ -->
 			<div class="item course <?php if($page!="contact") echo 'course_active'; ?>" id="course1">
 				<!-- =========== topic ============ --> <img class="course_topic" src="images/topic-register.png" />
-
+				
 				<!-- details -->
                 <!-- ===== details ====== -->
-
+				
 				<!-- ===== end details ====== -->
-
-				<div class="maincol_5">
+                
+				<div class="maincol_5"> 
 					<div class="textbox">
 						<h4 class="center orange">
-							สอบถามรายละเอียดของคอร์สเรียนเพิ่มเติม
-							<br />ติดต่อ 02-658-3819 หรือ facebook<br />
-
+							สอบถามรายละเอียดของคอร์สเรียนเพิ่มเติม 
+							<br />ติดต่อ 02-658-3819 หรือ LINE @ZA-SHI (มี @)<br />
+							
  							<br /><span class="blue">ขั้นตอนที่ 1 กรอกแบบฟอร์มจองคอร์สเรียนในเว็บไซต์</span><br />
                             <br /><span class="black">(คอร์สที่ยังไม่ขึ้นว่าเต็ม สามารถสมัครได้ทุกคอร์สครับ)</span>
 							<br /><br /><span class="blue">ขั้นตอนที่ 2 โอนค่าสมัครทางธนาคาร </span><br />
-							<br />"คอร์สสอนสด" "คอร์ส Sensation@Home" (เรียนที่บ้าน) และ <br />"Sensation ที่ ZA-SHI สยามสแควร์" ให้โอนเข้าบัญชีของครูพรหมเทพ <br />
-
-                            หากพบเห็นพนักงานรับเงินสด กรุณาโทรศัพท์แจ้ง 02-658-3986
+							<br />"คอร์สสอนสด" และ "คอร์ส @Home" (เรียนที่บ้าน) <br /> ให้โอนเข้าบัญชีของครูพรหมเทพ <br />
+ 							
+                            หากพบเห็นพนักงานรับเงินสด กรุณาโทรศัพท์แจ้ง 089-921-4549
 <br />
 							<br /><span class="blue">ขั้นตอนที่ 3 ยืนยันการโอน โดยกรอกวันเวลาที่โอนในแบบฟอร์มยืนยันการโอน</span><br />
-
+							
 					<!--	<p class="center strong">สะดวก ทันสมัย <span class="blue">"จองคอร์สเรียน และยืนยันการสมัครเรียน"</span>
 							<br />ให้ดำเนินการผ่านทางระบบออนไลน์ ตามแบบฟอร์มข้างล่างนี้ครับ-->
-
+							
                             <br /><span class="black">หลังจากโอนค่าสมัครและกรอกยืนยันในแบบฟอร์มแล้ว ภายใน 48 ชม. <br/>
                             เจ้าหน้าที่จะส่งข้อความคอนเฟิร์มทางอีเมลหรือ SMS ครับ</span></h4>
 						</p>
 					</div>
 				</div>
 				<div class="maincol_1">&nbsp;</div>
-
+				
 				<!-- =====  จอง ====== -->
 				<div class="maincol_2">
 					<a href="reserve.php" target="blank"><img src="images/but-form.gif" /></a>
 				</div>
-
+				
 				<!-- ===== ยืนยัน ====== -->
 				<div class="maincol_2">
 					<a href="confirm.php" target="blank"><img src="images/but-form2.gif" /></a>
 				</div>
-
-
+				
+				
 				<!-- ===== HORIZONTAL LINE ====== --><div class="clear"></div>
 
-
+				
 				<!-- ===== details ====== -->
 				<div class="maincol_5">
 					<p class="right"><br />คลิ๊กที่รูปเพื่อขยายใหญ่</p>
-					<a name="payment" class="popupimage" href="images/banner-payment.gif"><img class="imgshadow" src="images/Banner-payment.gif" width=600 /></a>
+					<a name="payment" class="popupimage" href="images/Banner-payment_.gif"><img class="imgshadow" src="images/Banner-payment_.gif" width=600 /></a>
 				</div><br />
 
 				<!-- ===== end details ====== -->
-
-			</div>
-
-
+				
+			</div>	
+				
+			
 			<!-- =========== CONTACT ============ -->
 			<div class="item course <?php if($page=="contact") echo 'course_active'; ?>" id="course2">
-
+			
 				<!-- =========== topic ============ --> <img class="course_topic" src="images/topic-contact.png" />
-
+				
 				<!-- ===== ปุ่มดูแผนที่ ====== -->
 				<!--<div class="maincol_1">&nbsp;</div>
 				<!--<div class="maincol_4">
@@ -161,15 +160,15 @@ error_reporting(0);
 				<!--</div>
 
 				<div class="maincol_5">&nbsp;</div>
-
-				<!-- details -->
+				
+				<!-- details --> 
 				<!--<div class="maincol_5">
 					<a class="popupimage" href="images/newmap2.gif"><img  src="images/newmap2.gif" alt="" width=300 /></a>
 					<a class="popupimage" href="images/accessmap.gif"><img  src="images/accessmap.gif" alt="" width=280 /></a>
 				</div> -->
-
+                
                 <div class="maincol_5">
-					<a class="popupimage" href="images/map_siam.jpg" target="blank"><img  class="imgshadow" src="images/map_siam.jpg" alt="" width=600 /></a>
+					<a class="popupimage" href="images/map_siam2020.jpg" target="blank"><img  class="imgshadow" src="images/map_siam2020.jpg" alt="" width=600 /></a>
 				</div><br />
                 <!-- <div class="maincol_5">
 					<a class="popupimage" href="images/map_phayathai.jpg" target="blank"><img  class="imgshadow" src="images/map_phayathai.jpg" alt="" width=600 /></a>
@@ -179,23 +178,23 @@ error_reporting(0);
 				</div><br />
                 <div class="maincol_5">
 					<a class="popupimage" href="images/newaccessmap.jpg" target="blank"><img  class="imgshadow" src="images/newaccessmap.jpg" alt="" width=600 /></a>
-				</div><br />
-
-				<!-- end details -->
-
+				</div><br /> 
+                
+				<!-- end details --> 
+				
 				<!-- ===== access ====== -->
-
-
-			</div>
-
-
-			<!-- ===== HORIZONTAL LINE ====== --><div class="clear"></div>
-
-
-<!-- =============== END OF MAIN CONTENT ================= -->
+				
+				
+			</div>	
+			
+			
+			<!-- ===== HORIZONTAL LINE ====== --><div class="clear"></div>		
+			
+			
+<!-- =============== END OF MAIN CONTENT ================= -->			
 		</div>
-
+		
 		<?php require_once("sidebar.php"); ?>
-
+		
 	</div>
 <?php require_once("footer.php"); ?>

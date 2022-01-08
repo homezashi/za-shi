@@ -42,10 +42,10 @@
 						<li><a id="menu2" class="strong <?php echo $m_select[2]; ?>" href="courses.php?id=2" >AD2 ตะลุยข้อสอบ PAT 7.3 ภาษาญี่ปุ่น </a></li>
 						
                         <li><a id="menu3" class="strong <?php echo $m_select[3]; ?>" href="courses.php?id=3" >คอร์สติวสอบวัดระดับภาษาญี่ปุ่น N5 N4 N3 N2 N1</a></li>
-						<li><a id="menu4" class="strong <?php echo $m_select[5]; ?>" href="courses.php?id=5" >คอร์สภาษาญี่ปุ่นพื้นฐาน DREAM 1, DREAM 2, PRE-AD</a></li>
+						<li><a id="menu4" class="strong <?php echo $m_select[5]; ?>" href="courses.php?id=5" >คอร์สภาษาญี่ปุ่นพื้นฐาน DREAM 1, DREAM 2, PRE-AD และ INTENSIVE JAPANESE</a></li>
 						  
                         <!--<li><a id="menu5" class="strong <?php echo $m_select[6]; ?>" href="courses.php?id=6" >คอร์สเฉลยข้อสอบ PAT ภาษาญี่ปุ่น</a></li>-->
-                        <li><a id="menu6" class="strong <?php echo $m_select[7]; ?>" href="courses.php?id=7" >คอร์สพิเศษ เช่น เก่งคันจิ, เรียนภาษาญี่ปุ่นจากตำรา AKIKO TO TOMODACHI และ MINNA NO NIHONGO</a></li> 
+                        <li><a id="menu6" class="strong <?php echo $m_select[7]; ?>" href="courses.php?id=7" >คอร์สภาษาญี่ปุ่นออนไลน์ ภาษาเยอรมันออนไลน์ ภาษาเกาหลีออนไลน์</a></li> 
 					</ul>
 				</div>
                 คลิกเลือกคอร์สด้านล่าง ตารางเรียนจะปรากฏที่ด้านล่างครับ
@@ -84,22 +84,23 @@
 				
                 <div class="maincol_3"> <!-- schedule --> 
 					
-                   <a href="images/wait.gif" target="blank"><img src="images/button_summer_wait.png" /></a>
-                    <!-- PRINT --><a href="images/wait.gif" target="blank"><img src="images/button_print.png" /></a>
+                    <a href="images/course/ZASHI_PAT_2022.png" target="blank"><img src="images/button_ready_sum.png" /></a>
+                    <!-- PRINT --><a href="images/course/ZASHI_PAT_2022.png" target="blank"><img src="images/button_print.png" /></a>
                     
+                    
+                    <a href="images/course/ZASHI_PAT_2022.png" target="blank"><img src="images/button_schedule_opensem1.png" /></a>
+                    <!-- PRINT --><a href="images/course/ZASHI_PAT_2022.png" target="blank"><img src="images/button_print.png" /></a>                 
                                         
-                   <a href="images/course/PAT_2019_01.png" target="blank"><img src="images/button_schedule_opensem1.png" /></a>
-                    <!-- PRINT --><a href="images/course/PAT_2019_01.png" target="blank"><img src="images/button_print.png" /></a>
-                    
                    
+                                     
                     
-                    <a href="images/course/PAT_2019_01.png" target="blank"><img src="images/button_schedule_openoct.png" /></a>
-                    <!-- PRINT --><a href="images/course/PAT_2019_01.png" target="blank"><img src="images/button_print.png" /></a>
+                    <a href="images/wait5.png" target="blank"><img src="images/button_oct_wait.png" /></a>
+                    <!-- PRINT --><a href="images/wait5.png" target="blank"><img src="images/button_print.png" /></a>
 
                    
                                       
-                    <a href="images/course/PAT_2019_02.png" target="blank"><img src="images/button_ready_sem2.png" /></a>
-                    <!-- PRINT --><a href="images/course/PAT_2019_02.png" target="blank"><img src="images/button_print.png" /></a>
+                    <a href="images/wait5.png" target="blank"><img src="images/button_schedule_opensem2.png" /></a>
+                    <!-- PRINT --><a href="images/wait5.png" target="blank"><img src="images/button_print.png" /></a>
 					
 	      		 </div>
                 
@@ -129,26 +130,27 @@
 					<a href="register.php"><img class="img_right" src="images/button_register.png" /></a>
 				</div>
 				
-                <div class="maincol_3"> <!-- schedule --> 
+                   <div class="maincol_3"> <!-- schedule --> 
 					
-                   <a href="images/wait.gif" target="blank"><img src="images/button_summer_wait.png" /></a>
-                    <!-- PRINT --><a href="images/wait.gif" target="blank"><img src="images/button_print.png" /></a>
+                    <a href="images/course/ZASHI_PAT_2022.png" target="blank"><img src="images/button_ready_sum.png" /></a>
+                    <!-- PRINT --><a href="images/course/ZASHI_PAT_2022.png" target="blank"><img src="images/button_print.png" /></a>
                     
+                    
+                    <a href="images/course/ZASHI_PAT_2022.png" target="blank"><img src="images/button_schedule_opensem1.png" /></a>
+                    <!-- PRINT --><a href="images/course/ZASHI_PAT_2022.png" target="blank"><img src="images/button_print.png" /></a>                 
                                         
-                   <a href="images/course/PAT_2019_01.png" target="blank"><img src="images/button_schedule_opensem1.png" /></a>
-                    <!-- PRINT --><a href="images/course/PAT_2019_01.png" target="blank"><img src="images/button_print.png" /></a>
-                    
                    
+                                     
                     
-                    <a href="images/course/PAT_2019_01.png" target="blank"><img src="images/button_schedule_openoct.png" /></a>
-                    <!-- PRINT --><a href="images/course/PAT_2019_01.png" target="blank"><img src="images/button_print.png" /></a>
+                    <a href="images/wait5.png" target="blank"><img src="images/button_oct_wait.png" /></a>
+                    <!-- PRINT --><a href="images/wait5.png" target="blank"><img src="images/button_print.png" /></a>
 
                    
                                       
-                    <a href="images/course/PAT_2019_02.png" target="blank"><img src="images/button_ready_sem2.png" /></a>
-                    <!-- PRINT --><a href="images/course/PAT_2019_02.png" target="blank"><img src="images/button_print.png" /></a>
+                    <a href="images/wait5.png" target="blank"><img src="images/button_schedule_opensem2.png" /></a>
+                    <!-- PRINT --><a href="images/wait5.png" target="blank"><img src="images/button_print.png" /></a>
 					
-	      </div>
+	      		 </div>
 				
 				<div class="clear"></div> <!-- dashed line -->
 				<!-- <div class="maincol_5"> <!-- details --> 
@@ -213,12 +215,12 @@
 					<a href="register.php"><img class="img_right" src="images/button_register.png" /></a>
 				</div>
 				<div class="maincol_3"> <!-- schedule --> 
-					<a href="images/course/JLPT_2019.png" target="blank"><img src="images/button_jlpt_open.png" /></a>
-					<!--PRINT --><a href="images/course/JLPT_2019.png" target="blank"><img src="images/button_print.png" /></a>
+					<a href="images/wait5.png" target="blank"><img src="images/button_dream_wait.png" /></a>
+					<!--PRINT --><a href="images/wait5.png" target="blank"><img src="images/button_print.png" /></a>
 					
                     
-                    <a href="images/course/zelf_table.jpg" target="blank"><img src="images/button_sensation_ad3.png" /></a>
-					<!--PRINT --><a href="images/course/zelf_table.jpg" target="blank"><img src="images/button_print.png" /></a>
+                    <a href="images/course/zelf_table4.jpg" target="blank"><img src="images/button_sensation_ad3.png" /></a>
+					<!--PRINT --><a href="images/course/zelf_table4.jpg" target="blank"><img src="images/button_print.png" /></a>
 					
 					
 	      </div>
@@ -266,12 +268,12 @@
 					<div class="textbox">
 						<p class="strong center">
 							สำหรับบุคคลทั่วไปที่อยากใช้ภาษาญี่ปุ่นได้ในระยะเวลาอันสั้น  
-							<br/><span class="orange"> "แนะนำให้ลงคอร์ส DREAM 1,DREAM 2, PRE-AD"  <br/>
-                            <br/>
-                            และจบ PRE-AD สามารถต่อ AD1 ติวสอบวัดระดับ N4 ได้เลย</span>!!! 
+							<br/><span class="orange"> "แนะนำให้ลงคอร์สออนไลน์ DREAM 1,DREAM 2, PRE-AD"  <br/>
+                            <br/>หรือคอร์สสอนสด INTENSIVE JAPANESE<br/>
+                            จากนั้นต่อติวสอบวัดระดับ N5 N4 ได้เลย</span>!!! 
 						<p class="strong center">
 							น้องๆ สายวิทย์ ศิลป์คำนวณ ฯลฯ ที่มีความฝันอยากสอบ PAT ญี่ปุ่น 
-						    <br/>จบ PRE-AD สามารถต่อ AD1 เพื่อติว PAT ญี่ปุ่นได้เลย
+						    <br/>จบแล้วต่อ AD1 เพื่อติว PAT ญี่ปุ่นได้เลย
 						</p>
                         <p class="strong center">
 							
@@ -288,11 +290,11 @@
 					 and add a link to the picture at HREF attribute***
 					 Example:  <a class="popupimage" href="images/course/Banner-AD1-Sem2-54.gif"> images or text </a>
 					 -->
-                    <a href="images/course/zelf_table.jpg" target="blank"><img src="images/button_sensation_akiko_sem.png" /></a>
-					<!--PRINT --><a href="images/course/zelf_table.jpg" target="blank"><img src="images/button_print.png" /></a>
+                    <a href="images/wait5.png" target="blank"><img src="images/button_dream_wait.png" /></a>
+					<!--PRINT --><a href="images/wait5.png" target="blank"><img src="images/button_print.png" /></a>
                     
-					<a href="images/course/zelf_table.jpg" target="blank"><img src="images/button_sensation_akiko_home.png" /></a>
-					<!--PRINT --><a href="images/course/zelf_table.jpg" target="blank"><img src="images/button_print.png" /></a>
+					<a href="images/course/zelf_table4.jpg" target="blank"><img src="images/button_sensation_akiko_home.png" /></a>
+					<!--PRINT --><a href="images/course/zelf_table4.jpg" target="blank"><img src="images/button_print.png" /></a>
 					
 					</div>
                 
@@ -313,12 +315,8 @@
 						<p class="strong center">
 							คอร์ส AKIKO 5-6 ต้องเรียนหรือไม่ ??<br/>
                             นักเรียนที่เรียน PRE-AD จบแล้ว เท่ากับได้เรียน AKIKO ถึงเล่ม 4 
-                            <br/>สามารถลง AD1 เพื่อติว PAT ญี่ปุ่น หรือติวสอบวัดระดับ N4 ได้เลย<br/> 
-							<span class="orange">"AKIKO 5-6"</span>
-						<p class="strong center">
-						เป็นการเรียนต่อไปเป็นบทๆ หากเวลาน้อยก็ไม่จำเป็นครับ <br/>แต่หากมีเวลาก็สามารถเรียนควบคู่ไปด้วย เพื่อให้ปึ๊กยิ่งขึ้นครับ<br/>
+                            <br/>สามารถลง AD1 เพื่อติว PAT ญี่ปุ่น หรือติวสอบวัดระดับ N5 N4 ได้เลย<br/> 
 							
-						</p>
 						<p class="strong center">
 							
 						</p>
@@ -351,8 +349,8 @@
 				</div>
 				
 				<div class="maincol_3"> <!-- schedule --> 
-			 		<a href="images/course/zelf_table.jpg" target="blank"><img src="images/button_sensation_pat7.png" /></a>
-					<!--PRINT -->  <a href="images/course/zelf_table.jpg" target="blank"><img src="images/button_print.png" /></a>
+			 		<a href="images/course/zelf_table4.jpg" target="blank"><img src="images/button_sensation_pat7.png" /></a>
+					<!--PRINT -->  <a href="images/course/zelf_table4.jpg" target="blank"><img src="images/button_print.png" /></a>
 				</div>
 				
 					<div class="maincol_5"> <!-- details --> 
@@ -383,8 +381,8 @@
 					
                     <a href="images/course/dream_sensation.jpg" target="blank"><img src="images/button_schedule_opensem1.png" /></a>
                     <!-- PRINT --><a href="images/course/dream_sensation.jpg" target="blank"><img src="images/button_print.png" /></a>
-                    <a class="popupimage" href="images/course/zelf_table.jpg"><img src="images/button_sensation_pread.png" /></a>
-					<!--PRINT --><a href="images/course/zelf_table.jpg" target="blank"><img src="images/button_print.png" /></a>
+                    <a class="popupimage" href="images/course/zelf_table4.jpg"><img src="images/button_sensation_pread.png" /></a>
+					<!--PRINT --><a href="images/course/zelf_table4.jpg" target="blank"><img src="images/button_print.png" /></a>
 			</div>
             <div class="clear"></div>	
                 

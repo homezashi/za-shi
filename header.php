@@ -1,4 +1,4 @@
-﻿<head><TITLE>=:: Zashi (ครูพี่โฮม) ภาษาญี่ปุ่นออนไลน์ ติว PAT ญี่ปุ่น JLPT, PAT เยอรมัน (ครูพี่กุ้ง), กวดวิชาภาษาญี่ปุ่น, เรียนพิเศษภาษาญี่ปุ่น, ติวสอบวัดระดับภาษาญี่ปุ่น, ติว N1 ติว N2 ติว N3 ติว N4 ติว N5 คันจิ ศัพท์ ไวยากรณ์ N1 N2 N3 N4 N5 การฟัง การอ่าน Tel. 02-658-3819</TITLE>
+﻿<head><TITLE>=:: Zashi (ครูพี่โฮม) ติว PAT ญี่ปุ่น JLPT เรียนภาษาญี่ปุ่นออนไลน์, เรียนพิเศษภาษาญี่ปุ่น, ติวสอบวัดระดับภาษาญี่ปุ่น, ติว N1, ติว N2, ติว N3, ติว N4, ติว N5, คันจิ ศัพท์ ไวยากรณ์ N1 N2 N3 N4 N5 การฟัง การอ่าน Tel. 02-658-3819</TITLE>
 
 <link rel="stylesheet" type="text/css" href="style.css" />
 <link rel="stylesheet" href="js/nivo/nivo-slider.css" type="text/css" media="screen" />
@@ -19,7 +19,7 @@
 		
 		<!-- ==========LOGO ========== -->
 		<div id="logo">
-			<img src="images/logo.jpg" />
+			<img src="images/logo2021.jpg" />
 		</div>
 		
 		<!-- ========== NAVIGATOR ========== -->
@@ -73,7 +73,7 @@
 					<!-- ========== END dropdown เวลาไปชี้ ========== -->
 				</li>
 				<!-- ========== menu 6 ========== -->
-				<li><a href="omedetou.php">สุดยอดผลงานการติว</a></li>
+				<li><a href="omedetou.php">ผลงานการติว</a></li>
                 
 				
 					<!-- ========== dropdown เวลาไปชี้ ========== -->
@@ -96,7 +96,7 @@
 				<li><a href="about.php">เกี่ยวกับ ZA-SHI</a></li>
                 
                 <!-- ========== menu 3 ========== -->
-				<li>	<a href="online.php">ติวญี่ปุ่นฟรี</a>
+				<li>	<a href="online.php">เรียนภาษาญี่ปุ่นออนไลน์</a>
 				
 				<!-- ========== menu 5 ========== -->
 				<li><a href="profiles.php">ประวัติคุณครู</a></li>
@@ -104,7 +104,7 @@
 				
 				
 				<!-- ========== menu 7 ========== -->
-				<li><a href="register.php">สาขาและสมัครเรียน</a></li>
+				<li><a href="register.php">สมัครเรียน</a></li>
 			</ul>
 			
 		</div>
@@ -115,12 +115,12 @@
                 
                 <!--<a href="http://www.ziel-deutsch.com" target="blank"><img src="images/ziel-slide.gif" width=710 height=190 alt="" /></a>
                  <a href="http://www.ziel-deutsch.com" target="blank"><img src="images/ziel-slide.gif" width=710 height=190 alt="" /></a> -->
-				<img src="images/course/slide_dekd.jpg" width=710 height=190 alt="" />
-                <img src="images/slide_learnsbuy.jpg" width=710 height=190 alt="" />
-               <img src="images/slide_kanji.jpg" width=710 height=190 alt="" />
-				<img src="images/slide_pat.jpg" width=710 height=190 alt="" />
-				<img src="images/course/slide_dekd.jpg" width=710 height=190 alt="" />
-                <img src="images/slide_learnsbuy.jpg" width=710 height=190 alt="" />
+				<img src="images/slide_dekdpread65.jpg" width=710 height=190 alt="" />
+                <img src="images/slide_dekdpread65.jpg" width=710 height=190 alt="" />
+                <img src="images/slide_learnsbuy2020.jpg" width=710 height=190 alt="" />
+               	
+				
+                <img src="images/slide_learnsbuy2020.jpg" width=710 height=190 alt="" />
                
 				
       </div>
@@ -128,7 +128,7 @@
 		
 		<!-- ========= MENU BANNER ที่มี facebook ========== -->
 		<div id="facebook">
-			<a href="http://www.learnsbuy.com" target="blank"><img src="images/course/learnsbuy2.gif" width=170 /></a>
+			<a href="https://learnsbuy.com/course" target="blank"><img src="images/learnsbuy_new.gif" width=170 /></a>
             <a href="http://www.facebook.com/pat300" target="blank"><img src="images/facebook_pat.gif" width=170 /></a>
             <a href="http://www.facebook.com/jlptonline" target="blank"><img src="images/facebook_jlpt.gif" width=170 /></a>
             </div>

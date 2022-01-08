@@ -16,24 +16,27 @@
 				<div class="maincol_5">
 					<div class="textbox">
 						<p class="center strong">
-							พบกับเฉลยข้อสอบ PAT 7.3 ภาษาญี่ปุ่นล่าสุด <span class="orange">ติวสอบวัดระดับภาษาญี่ปุ่น N1 N2 N3 N4 N5</span>
-							<br />ผู้นำการเรียนภาษาญี่ปุ่นออนไลน์ ครูพี่โฮมและเอ็ตจัง
+							ติวสอบ PAT 7.3 TCAS66 อัพเดต เฉลยข้อสอบ PAT 7.3 ภาษาญี่ปุ่น ทุกปี <br /><span class="orange">ติวสอบวัดระดับภาษาญี่ปุ่น N1 N2 N3 N4 N5</span>
+							<br />เรียนภาษาญี่ปุ่นออนไลน์ ด้วยแอพทันสมัย ครูพี่โฮม ZA-SHI ผู้ออกข้อสอบ PAT Dek-D
 							
-							<br /><span class="blue"> ติว PAT เยอรมัน (ครูพี่กุ้ง) รับสมัครแล้ว</span>
+							<br /><span class="blue"> ติว PAT เยอรมัน (ครูพี่กุ้ง) และติว PAT เกาหลี โดยผู้ออกข้อสอบ PAT Dek-D</span>
 						</p>
 					</div>
 				</div>
 
 
+                                       
+                                       
+                    <br />
                     <div class="maincol_5">
-                 		<a href="images/truepanya.jpg" target="blank"><img class="imgshadow" src="images/truepanya.jpg" width=600/></a>
+                 		<a href="images/truepanya_2020.jpg" target="blank"><img class="imgshadow" src="images/truepanya_2020.jpg" width=600/></a>
 					</div>
                     <br />
                     
                     
                                 
                     <div class="maincol_5">
-						<a href="images/prepat.jpg" target="blank"><img class="imgshadow" src="images/prepat.jpg" width=600/></a>
+						<a href="images/prepat2020.jpg" target="blank"><img class="imgshadow" src="images/prepat2020.jpg" width=600/></a>
 					</div>
                     
                                         
@@ -41,7 +44,7 @@
                     <br />
                     <div class="maincol_5">
                  
-						<a href="images/siam_hoshuu.jpg" target="blank"><img class="imgshadow" src="images/siam_hoshuu.jpg" width=600/></a>
+						<a href="images/zashi_celeb.jpg" target="blank"><img class="imgshadow" src="images/zashi_celeb.jpg" width=600/></a>
 					</div>
                                        
 
@@ -56,35 +59,24 @@
                         
                     </div> -->
                     
-                    <div class="maincol_5">
-						<img class="imgshadow" src="images/course/PAT_2019_02.png" width=600/>
-                        
-                        
-                    </div>
-                    
-                    
-                    <br />
-                 <div class="maincol_5">
-						<img class="imgshadow" src="images/course/PAT_2019_01.png" width=600/>
-                        
-                        
-                    </div>
-                    
+                                      
                    
-                    
-                    <br />
                     <div class="maincol_5">
-						<img class="imgshadow" src="images/course/zelf_table.jpg" width=600/>
+						<img class="imgshadow" src="images/course/ZASHI_PAT_2022.png" width=600/>
                         
                         
                     </div>
                  
                   <br />
-                 <div class="maincol_5">
-						<img class="imgshadow" src="images/course/JLPT_2019.png" width=600/>
+                    <br />
+                    <div class="maincol_5">
+						<img class="imgshadow" src="images/course/zelf_table4.jpg" width=600/>
                         
                         
                     </div>
+                 
+                  <br />
+                 
                  
 
 				<!-- =============== TEXTBOX ================= -->
@@ -96,7 +88,7 @@
 							เปิดตัวแอพพลิเคชั่นใหม่ <span class="orange">Learnsbuy</span>
 							<br />เรียนภาษาญี่ปุ่น เยอรมัน เกาหลี จีน ออนไลน์
 							
-							<br /><span class="blue">Learnsbuy ผู้นำการเรียนภาษาออนไลน์</span>
+							<br /><span class="blue">Learnsbuy ผู้นำการเรียนภาษาออนไลน์<br />เรียนภาษาญี่ปุ่นออนไลน์<br />ติว PAT 7.3 ภาษาญี่ปุ่น ติวสอบวัดระดับ JLPT N1 N2 N3 N4 N5</span>
 						</p>
 					</div>
 				</div>
